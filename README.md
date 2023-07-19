@@ -1,4 +1,4 @@
-# Physical-Education-Quizes
+# Physical-Education-Quizzes
 ΨΗΦΙΑΚΑ ΚΟΥΙΖ ΓΙΑ ΤΟ ΜΑΘΗΜΑ ΤΗΣ ΦΥΣΙΚΗΣ ΑΓΩΓΗΣ
 
 <h4><strong>ΥΛΙΚΟ ΓΙΑ ΕΚΠΑΙΔΕΥΤΙΚΟΥΣ (</strong>Educational Material)</h4>
